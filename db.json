@@ -6,10 +6,10 @@
     { "id": 4, "title": "Post 4" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 2 },
-    { "id": 3, "body": "some comment", "postId": 3 },
-    { "id": 4, "body": "some comment", "postId": 2 }
+    { "id": 1, "body": "some comment", "name": "alias odio sit", "postId": 1 },
+    { "id": 2, "body": "some comment", "name": "alias odio sit", "postId": 2 },
+    { "id": 3, "body": "some comment", "name": "alias odio sit", "postId": 3 },
+    { "id": 4, "body": "some comment", "name": "alias odio sit", "postId": 2 }
   ],
   "profile": {
     "name": "typicode"
