@@ -11,9 +11,11 @@
     { "id": 3, "body": "some comment", "postId": 3 },
     { "id": 4, "body": "some comment", "postId": 2 }
   ],
-  "profile": {
-    "name": "typicode", "email1" : "Lew@alysha.tv", "description": "non et atque"
-  },
+  "profile": [
+    { "id": 1, "name": "typicode", "email1" : "Lew@alysha.tv", "description": "non et atque", "postId": 1 },
+    { "id": 2, "name": "typicode", "email1" : "Lew@alysha.tv", "description": "non et atque", "postId": 2 },
+    { "id": 3, "name": "typicode", "email1" : "Lew@alysha.tv", "description": "non et atque", "postId": 3 },
+ ],
   "records": {
     "total": 5,
     "list": [
